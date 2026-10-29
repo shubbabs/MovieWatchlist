@@ -10,6 +10,8 @@
 
 	<div class="mb-3">
 		<a class="btn btn-primary" href="/movies/create">Add New Movie</a>
+
+
 	</div>
 
 	<div class="row g-2">
